@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+* {
+  font-family: "Almarai", Helvetica, sans-serif;
+}
+
+h1 {
+  @apply leading-[100%] tracking-[-6%];
+}
+
+:root {
+  --clr-custom-blue: rgba(69, 92, 233, 1);
+}
